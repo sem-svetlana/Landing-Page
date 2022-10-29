@@ -184,7 +184,7 @@ body {
     color: black;
     margin-bottom: 15px;
 }
-.subscription_section{
+.subscription_section {
     margin-top: 100px;
 }
 .subcsribe__title {
@@ -211,22 +211,21 @@ body {
     box-shadow: 3px 5px 30px 20px rgba(186, 153, 255, 0.13);
     box-sizing: border-box;
 }
-.subscription-item__list{
+.subscription-item__list {
     list-style: none;
     padding: 0;
     padding-left: 25px;
     padding-bottom: 20px;
 }
-.subscription-item__list_item{
+.subscription-item__list_item {
     background-image: url(../images/list-item.svg);
     background-repeat: no-repeat;
     background-position: 0 0;
     padding-bottom: 5px;
     text-align: start;
 }
-.bad_item{
+.bad_item {
     background-image: url(../images/bad-item.svg);
-
 }
 .list_item__text{
     padding-left: 40px;
