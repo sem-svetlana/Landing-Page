@@ -218,14 +218,14 @@ body {
     padding-bottom: 20px;
 }
 .subscription-item__list_item{
-    background-image: url(/images/list-item.svg);
+    background-image: url(../images/list-item.svg);
     background-repeat: no-repeat;
     background-position: 0 0;
     padding-bottom: 5px;
     text-align: start;
 }
 .bad_item{
-    background-image: url(/images/bad-item.svg);
+    background-image: url(../images/bad-item.svg);
 
 }
 .list_item__text{
